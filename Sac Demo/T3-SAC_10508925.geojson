@@ -1,0 +1,21 @@
+{
+  "type": "Feature",
+  "properties": {
+    "turf_id": "T3-SAC",
+    "segment_id": 10508925,
+    "segment_name": "Cemetery to LP"
+  },
+  "geometry": {
+    "coordinates": [
+      [
+        -121.50036843460069,
+        38.559553404183134
+      ],
+      [
+        -121.50754784792704,
+        38.54735638204687
+      ]
+    ],
+    "type": "LineString"
+  }
+}
